@@ -1,0 +1,23 @@
+{
+    "ownerNumber": "6282279915237@s.whatsapp.net",
+    "ownerName": "Post-Bot",
+    "limitCount": 30,
+    "gamewaktu": 60,
+    "botName": "Post_Bot",
+    "pathImg": "./media/Itsuki.jpg",
+    "lolkey": "f68e75e6dfa3e00761410be8",
+    "sesidInsta": "default",
+    "sessionName": "lexxy",
+    "txtDonasi": "GOPAY : -\nTrakteer : -\nSaweeria : https://saweria.co/LexxyGans\nPulsa : 62821212315496",
+    "gcount": {
+        "prem": 40,
+        "user": 20
+    },
+    "emote":{
+        "free": "◽",
+        "owner": "◾",
+        "limit": "🔸",
+        "glimit": "🔹",
+        "prem": "💰"
+    }
+}

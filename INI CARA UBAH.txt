@@ -1,0 +1,3 @@
+ganti owner setting di files config.json
+
+mau ganti menunya di message/help.js
